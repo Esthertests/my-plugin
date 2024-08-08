@@ -1,0 +1,25 @@
+{
+  "name": "create-a-describe-suite",
+  "version": "1.0.0",
+  "description": "A plugin that generate a cypress test suite with dummy scripts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esthertests/my-plugin.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Esther Okafor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Esthertests/my-plugin/issues"
+  },
+  "homepage": "https://github.com/Esthertests/my-plugin#readme",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  }
+}
